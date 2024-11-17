@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OrderSDK.iml" filepath="$PROJECT_DIR$/OrderSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-sdk.iml" filepath="$PROJECT_DIR$/react-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-sdk.iml" filepath="$PROJECT_DIR$/vue-sdk.iml" />
+    </modules>
+  </component>
+</project>
